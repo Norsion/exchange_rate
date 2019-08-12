@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Exchange_Rate</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="main">Main</string>
+    <string name="logout">Log Out</string>
+
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="app_toolbar">Exchange rate</string>
+    <string name="FORGOT_PASSWORD">FORGOT PASSWORD</string>
+    <string name="CREATE_ACCOUNT">CREATE ACCOUNT</string>
+    <string name="google">C O N T I N U E W I T H G O O G L E</string>
+    <string name="login">Login</string>
+    <string name="pass">password</string>
+    <string name="email">email</string>
+    <string name="Title">Welcome</string>
+    <string name="rate">Курс рубля равен</string>
+
+
+
+
+
+
+</resources>

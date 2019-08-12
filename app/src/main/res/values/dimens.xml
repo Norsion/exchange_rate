@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_text_size">32sp</dimen>
+    <dimen name="normal_text_size">20sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="size_small">8dp</dimen>
+    <dimen name="size_standard">16dp</dimen>
+    <dimen name="size_big">32dp</dimen>
+    <dimen name="size_huge">48dp</dimen>
+    <dimen name="logout">60dp</dimen>
+
+
+
+</resources>
