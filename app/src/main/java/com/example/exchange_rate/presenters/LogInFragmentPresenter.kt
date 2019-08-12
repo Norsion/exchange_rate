@@ -31,10 +31,7 @@ class LogInFragmentPresenter:MvpPresenter<ILogInFragmentView>(){
             .subscribeOn(Schedulers.io())
             .observeOn(AndroidSchedulers.mainThread())
             .subscribe({
-                Log.d("Repo", "this is рубль ${it.rate?.RUB}")
-                viewState.requestComplited(it.rate?.RUB.toString())
-                Log.d("Repo", "this is метод ${ApiClient.instance.apiService.getBase()}")
-                Log.d("LogInPresenter","this is ${it.rate?.RUB.toString()}")
+                viewState.requestComplited(it.rates?.RUB.toString())
             }, {
 
             })
